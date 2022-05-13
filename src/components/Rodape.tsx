@@ -1,3 +1,4 @@
+import './Rodape.css'
 const Rodape = function () {
     return ( <footer>
         <p>Desenvolvido Por Nicolas Simão</p> 

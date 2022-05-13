@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+button {
+   background-color: rgb(245, 192, 112);
+    padding: 6px 17px ;
+    border-style: none;
+    font-family: 'Koulen', cursive;
+    font-size: x-large;
+    border-radius: 12px;
+    margin-left:  15px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
